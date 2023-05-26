@@ -15,17 +15,17 @@ ini adalah cara untuk menjalan apps/website
 
 ## Screenshot Soal 2
 
-![App Screenshot](./images/soal2.png)
+![alt text](https://github.com/yosephsmjtk/Logika/blob/master/images/Soal2.png?raw=true)
 
 ## Screenshot Soal 3
 
-![App Screenshot](./images/soal3.png)
+![alt text](https://github.com/yosephsmjtk/Logika/blob/master/images/Soal3.png?raw=true)
 
 ## Screenshot Soal 4
 
-![App Screenshot](./images/soal4.png)
+![alt text](https://github.com/yosephsmjtk/Logika/blob/master/images/Soal4.png?raw=true)
 
 ## Screenshot Soal 5
 
-![App Screenshot](./images/soal5.png)
+![alt text](https://github.com/yosephsmjtk/Logika/blob/master/images/Soal5.png?raw=true)
 
