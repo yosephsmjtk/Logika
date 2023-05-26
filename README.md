@@ -2,11 +2,12 @@
 Yoseph Hatigoran Simanjuntak yosephsi35@gmail.com
 
 ini adalah cara untuk menjalan apps/website
-
-
-
-
-
+Clone the project
+1. Buka VsCode
+2. ctrl+shift+p
+3. Pilih Git: Clone
+4. Pilih Clone from GitHub
+5. Masukkan https://github.com/yosephsmjtk/Logika
 
 
 ## Screenshot Soal 1
