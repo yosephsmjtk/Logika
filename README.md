@@ -8,6 +8,7 @@ Clone the project
 3. Pilih Git: Clone
 4. Pilih Clone from GitHub
 5. Masukkan https://github.com/yosephsmjtk/Logika
+6. Buat Folder Baru, lalu klik Select as Repository Destination
 
 
 ## Screenshot Soal 1
