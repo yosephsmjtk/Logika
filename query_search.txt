@@ -1,0 +1,7 @@
+1. Contoh bilangan cacah kelipatan 3 dan 7
+2. Contoh codingan looping pada python
+3. Contoh codingan rekursif pada python
+4. Cara menggunakan pernyataan "range" dalam Python untuk membuat urutan bilangan cacah
+5. Bagaimana cara membuat loop yang memproses elemen dari daftar bilangan cacah di Python?
+6. Panduan penggunaan perulangan "for" dengan "range" untuk mencetak bilangan cacah di Python
+
