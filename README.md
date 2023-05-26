@@ -11,7 +11,7 @@ ini adalah cara untuk menjalan apps/website
 
 ## Screenshot Soal 1
 
-![App Screenshot](./images/soal1.png)
+![alt text](https://github.com/yosephsmjtk/Logika/blob/master/images/Soal1.png?raw=true)
 
 ## Screenshot Soal 2
 
